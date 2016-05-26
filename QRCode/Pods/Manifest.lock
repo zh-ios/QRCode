@@ -1,0 +1,10 @@
+PODS:
+  - libqrencode (3.4.2)
+
+DEPENDENCIES:
+  - libqrencode (~> 3.4.2)
+
+SPEC CHECKSUMS:
+  libqrencode: 43dc34b89af83ea4b07c409cd8e09c87aa3a1c9f
+
+COCOAPODS: 0.39.0
